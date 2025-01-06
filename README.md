@@ -38,8 +38,6 @@ The model achieved:
 
 Significant outperformance compared to traditional static portfolios.
 
-## Future Improvements
-
 ## Roadmap
 
 This project serves as a foundation for advanced portfolio optimization. We are continuously working to improve and expand its capabilities. Here's a glimpse into our future development plans:
