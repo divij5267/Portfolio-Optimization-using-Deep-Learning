@@ -1,5 +1,4 @@
 # Portfolio-Optimization-using-Deep-Learning
-# Portfolio Optimization Using Deep Learning
 
 ## Overview
 
